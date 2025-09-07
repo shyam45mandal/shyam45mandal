@@ -64,13 +64,19 @@ I love building projects, exploring data, and learning new technologies.
 
 ---
 
+
+
 ### 🧩 DSA Skills  
-Sharpening problem-solving through coding challenges.  
+Sharpening problem-solving through coding challenges and improving data structures & algorithms knowledge.  
+
 <p align="left">
   <a href="https://leetcode.com/u/shyam45mandal/">
-    <img src="https://leetcode.com/u/Shyam_Kumar_Mandal/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
+
+
+
 
 ---
 ## 📊 GitHub Stats
