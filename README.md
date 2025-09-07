@@ -53,6 +53,7 @@ I love building projects, exploring data, and learning new technologies.
 | Project | Description | Link |
 |---------|-------------|------|
 | [IPL Win Predictor](https://ipl-win-predictor-dcqchja92nz9tusrquvzgb.streamlit.app/) | Streamlit web app to predict IPL match outcomes using ML models | [Repo](https://github.com/shyam45mandal/ipl-win-predictor) |
+| [🎬 Movies Recommender System](https://movies-recommender-system-skm.streamlit.app/) | Streamlit web app to recommend movies using ML models | [Repo](https://github.com/shyam45mandal/Movies-Recommender-System/tree/main) |
 
 ---
 
