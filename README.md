@@ -68,14 +68,13 @@ I love building projects, exploring data, and learning new technologies.
 Sharpening problem-solving through coding challenges.  
 <p align="left">
   <a href="https://leetcode.com/u/shyam45mandal/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://leetcode.com/u/Shyam_Kumar_Mandal/">
   </a>
 </p>
 
 ---
 ## 📊 GitHub Stats
 
-![Shyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyam45mandal&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyam45mandal&layout=compact&theme=radical)  
 
 ## 📬 Contact Me
