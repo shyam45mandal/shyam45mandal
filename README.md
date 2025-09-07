@@ -70,7 +70,7 @@ I love building projects, exploring data, and learning new technologies.
 Sharpening problem-solving through coding challenges and improving data structures & algorithms knowledge.  
 
 <p align="left">
-  <a href="https://leetcode.com/u/shyam45mandal/">
+  <a href="https://leetcode.com/u/Shyam_Kumar_Mandal/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
