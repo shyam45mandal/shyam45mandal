@@ -11,8 +11,6 @@ I love building projects, exploring data, and learning new technologies.
 
 ---
 
----
-
 ## 🛠️ Skills
 
 **Programming Languages**  
@@ -51,7 +49,6 @@ I love building projects, exploring data, and learning new technologies.
 </p>
 
 ---
----
 
 ## 💼 My Work  
 
@@ -60,7 +57,7 @@ I love building projects, exploring data, and learning new technologies.
 |---------|-------------|----------|------------|
 | 🏏 **IPL Win Predictor** | Predicts IPL match outcomes using Machine Learning models | [Live Demo](https://ipl-win-predictor-dcqchja92nz9tusrquvzgb.streamlit.app/) | [Repo](https://github.com/shyam45mandal/ipl-win-predictor) |
 | 🎬 **Movies Recommender System** | Suggests movies using content-based ML techniques and TMDb API | [Live Demo](https://movies-recommender-system-skm.streamlit.app/) | [Repo](https://github.com/shyam45mandal/Movies-Recommender-System) |
-| 🎨 **Personal Portfolio Website** | Showcases my projects, skills, qualifications, and contact info using React & Vite | [Live Demo](https://your-live-demo-link.com) | [Repo](https://github.com/shyam45mandal/Personal-Portfolio) |
+| 🎨 **Personal Portfolio Website** | Showcases my projects, skills, qualifications, and contact info using React & Vite | [Live Demo](https://personal-portfolio-seven-psi-89.vercel.app/) | [Repo](https://github.com/shyam45mandal/Personal-Portfolio) |
 
 
 ---
