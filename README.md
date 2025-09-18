@@ -6,7 +6,6 @@ I love building projects, exploring data, and learning new technologies.
 
 - 🌱 Currently diving deeper into advanced Machine Learning & Deep Learning techniques, exploring models such as Artificial Neural Networks (ANNs), Random Forests, Gradient Descent optimization, and boosting methods like XGBoost.  
 - 💻 Passionate about solving real-world problems through data-driven approaches  
-- 🏏 Built an [IPL Win Predictor](https://ipl-win-predictor-dcqchja92nz9tusrquvzgb.streamlit.app/) using Machine Learning 
 - 📫 Reach me at  [skm39xb@gmail.com](mailto:skm39xb@gmail.com)
 
 
@@ -61,6 +60,8 @@ I love building projects, exploring data, and learning new technologies.
 |---------|-------------|----------|------------|
 | 🏏 **IPL Win Predictor** | Predicts IPL match outcomes using Machine Learning models | [Live Demo](https://ipl-win-predictor-dcqchja92nz9tusrquvzgb.streamlit.app/) | [Repo](https://github.com/shyam45mandal/ipl-win-predictor) |
 | 🎬 **Movies Recommender System** | Suggests movies using content-based ML techniques and TMDb API | [Live Demo](https://movies-recommender-system-skm.streamlit.app/) | [Repo](https://github.com/shyam45mandal/Movies-Recommender-System) |
+| 🎨 **Personal Portfolio Website** | Showcases my projects, skills, qualifications, and contact info using React & Vite | [Live Demo](https://your-live-demo-link.com) | [Repo](https://github.com/shyam45mandal/Personal-Portfolio) |
+
 
 ---
 
