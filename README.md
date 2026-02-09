@@ -70,6 +70,7 @@ I love building projects, exploring data, and learning new technologies.
 
 ### 🧩 DSA Skills  
 Sharpening problem-solving through coding challenges and improving data structures & algorithms knowledge.  
+I Solved 50+ problem statement on leetcode
 
 <p align="left">
   <a href="https://leetcode.com/u/Shyam_Kumar_Mandal/">
